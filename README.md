@@ -2,14 +2,16 @@
 
 <h1>Observer Playbooks</h1>
 
-<p><b>Ready-made setups for the meetings you actually have.</b><br>
-Each Playbook tells <a href="https://getobserver.app">Observer</a>, the AI companion for meetings, how to help during the call,<br>
-which Quick Action buttons to show, and how to write your notes afterwards.</p>
+<p><b>Free, optional Playbooks for more kinds of meetings.</b><br>
+<a href="https://getobserver.app">Observer</a>, the AI companion for meetings, already comes with seven Playbooks built in.<br>
+This library adds more, for calls like discovery, demos, user interviews and incident reviews.</p>
 
 <a href="https://getobserver.app/download"><img src="https://img.shields.io/badge/Download_Observer-Mac_·_Windows-202020?style=for-the-badge" alt="Download Observer for Mac and Windows"></a>
 <a href="https://getobserver.app/help/playbooks"><img src="https://img.shields.io/badge/Docs-Playbooks-202020?style=for-the-badge" alt="How Playbooks work"></a>
 
 </div>
+
+> **New to Observer? You don't need this to get started.** The app already includes General, Interview, Sales, Recruiting, Technical Discussion, Team Meeting and Lecture: open **Playbooks → Templates** and pick one. Come back here when you want a ready-made setup for a meeting those don't cover.
 
 ## The Playbooks
 
@@ -38,8 +40,6 @@ which Quick Action buttons to show, and how to write your notes afterwards.</p>
 | [Client Discovery](playbooks/services/client-discovery.md) | Agencies, consultants and freelancers | Scope Check, Budget Question |
 | **Media** | | |
 | [Podcast or Press Interview](playbooks/media/podcast-or-press-interview.md) | Guests on podcasts and in the press | Bridge, Sound Bite, Careful |
-
-Observer also ships seven templates inside the app (**General, Interview, Sales, Recruiting, Technical Discussion, Team Meeting, Lecture**). Open **Playbooks → Templates** to use those.
 
 ## What's in a Playbook
 
